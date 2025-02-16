@@ -1,4 +1,4 @@
-HI, i'm zee. I highly interest in low level programming, reverse engineering and also
+HI, i'm zee. I'm 18 y.o. I highly interest in low level programming, Linux/Android reverse engineering and also
 HPC computing.
 
 My public keys
