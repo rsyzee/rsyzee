@@ -4,11 +4,6 @@ HPC computing.
 My public keys
 ------------------
 <pre>
-pub   ed25519 2024-06-26 [SC]
-      97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47
-uid           [ unknown] Fadhil Riyanto &ltme@fadev.org&gt
-sub   cv25519 2024-06-26 [E]
-  
 pub   rsa4096 2024-11-07 [SC]
       B001D7E7E40191F0D200648979CDAFC23D9A2DBD
 uid           [ unknown] rsyzee &lt63765804+rsyzee@users.noreply.github.com&gt
